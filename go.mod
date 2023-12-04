@@ -1,4 +1,4 @@
-module github.com/tulzke/grpc_signature
+module github.com/tulzke/grpc-signature
 
 go 1.21
 
